@@ -1,0 +1,6 @@
+__pycache__/
+.env
+config/config.json
+data/history.db
+*.pyc
+.vscode/
