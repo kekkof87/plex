@@ -1,0 +1,8 @@
+{
+  "tmdb_api_key": "",
+  "omdb_api_key": "",
+  "reddit_client_id": "",
+  "reddit_client_secret": "",
+  "reddit_user_agent": "plex-recommender/1.0",
+  "use_pushshift": true
+}
