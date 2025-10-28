@@ -1,0 +1,11 @@
+streamlit>=1.20
+pandas
+numpy
+scikit-learn
+sentence-transformers
+sqlalchemy
+requests
+beautifulsoup4
+tmdbv3api
+tqdm
+python-dotenv
